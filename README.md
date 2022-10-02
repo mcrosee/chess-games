@@ -1,5 +1,5 @@
 # chess-games
-This project demonstrates how to use c++ in OOP Style in chess games.
+This project demonstrates how to use c++ in OOP Style in chess games
 
 
 ![figures](https://user-images.githubusercontent.com/73470193/191281129-d6f875b1-e77e-4baf-acc0-8712d69d2cf9.png)
